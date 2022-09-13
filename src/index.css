@@ -202,7 +202,6 @@ body {
 }
 .filters {
   width: 100%;
-  margin: unset auto;
 }
 /* Todo item styles */
 .todo {
